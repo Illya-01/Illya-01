@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Illya-01
 - 👀 I’m interested in web development and making websites.
 - 🌱 I’m currently learning html, css and java script.
-- 💞️ I’m looking to collaborate with some it companies.
+- 💞️ I’m looking forward to collaborate with some IT companies.
 - 📫 How to reach me (by email: illyaroman103@gmail.com)
 
 <!---
