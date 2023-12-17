@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Illya-01
-- 👀 I’m interested in web development and making websites.
-- 🌱 I’m currently learning html, css and java script.
-- 💞️ I’m looking forward to collaborating with some IT companies.
-- Student of @kpi, currently online, because of the war
+👋 Hi, I’m Illia Roman from Ukraine 💙💛
+🎓 I am a student of @kpi studying online due to the ongoing war.
+😀 I'm passionate about web development and crafting modern-looking websites
+🧠 I possess a solid foundation in **HTML**, **CSS**, **JS**, **Bootstrap**, **Responsive design**
+🚀 I'm currently exploring Node, MongoDB, Tailwind, React, and beyond
+🔎 I'm excited about the opportunity to work with you and join the Web Development industry
